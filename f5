@@ -3,5 +3,8 @@ this is branch b3
 now adding some data
 again this is branch -- b3
 this is master branch
+<<<<<<< HEAD
 now iam committing from master branch only
 not from b3
+=======
+>>>>>>> b3
